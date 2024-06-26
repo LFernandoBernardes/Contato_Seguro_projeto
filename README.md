@@ -4,10 +4,8 @@ O objetivo deste projeto é criar Features de testes manuais para o site Contato
 
 ## Teste 
 
-Os testes foram feitos em liguagem Gherkin utilizando a metodologia BDD que aprendi com o Papito no curso da QAx, são todos manuias.
+Os testes foram feitos em liguagem Gherkin utilizando a metodologia BDD que aprendi com o Papito no curso da QAx, todos testes são manuias.
 
 ## Trabalho
 
-Este trabalho é meramente educacional, sem nenhum vinculo com a empresa, simplesmente entrei no site e criei as Features conformo o cadastro. 
-
-# Contato_Seguro_projeto
+Este trabalho é meramente educacional, sem nenhum vinculo com a empresa, simplesmente entrei no site e criei as Features conforme a solicitação de orçamento. Minhas inteções foram práticar cenários de testes.  
