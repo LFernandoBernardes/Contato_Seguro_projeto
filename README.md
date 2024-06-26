@@ -10,3 +10,4 @@ Os testes foram feitos em liguagem Gherkin utilizando a metodologia BDD que apre
 
 Este trabalho é meramente educacional, sem nenhum vinculo com a empresa, simplesmente entrei no site e criei as Features conformo o cadastro. 
 
+# Contato_Seguro_projeto
